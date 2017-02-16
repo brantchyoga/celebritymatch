@@ -22,12 +22,5 @@ $(document).ready(function() {
       $("#kk").show();
       console.log("Last female option");
     }
-    // if ( gender === "female" && music === "alt" || music === "rap" && animal === "turtle") {
-    //   $("#kk").show();
-    // } else if (gender === "female" && music === "class" && animal === "snake") {
-    //   $("#rock").show();
-    // } else {
-    //   $("#jb").show();
-    // }
   });
 });
